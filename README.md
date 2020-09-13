@@ -10,4 +10,4 @@
 # Summary:
 # Looking at the statistics for June and for December, there is barely any variation in the temperature. When you look at different island the temperatures very more. For example, the island of Oahu has micro-climates. Ideally, select the station nearest the potential store location. 
 # Addition Query 1: Look at each island instead of all of them as a whole to get more accurate answer. 
-# Addition Query 2:  look at how many storms happen at each island. This i=will impact peoples ability to do stuff outside.
+# Addition Query 2:  look at how many storms happen at each island. This will impact peoples ability to do stuff outside.
